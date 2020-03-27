@@ -1,0 +1,12 @@
++incdir+..
+../riscv_regfile.v
+../riscv_alu.v
+../riscv_ifu.v
+../riscv_idu.v
+../riscv_exu.v
+../riscv_lsu.v
+../riscv_muldiv.v
+../riscv_csr.v
+../riscv_core.v
+../mem_fifo_wb.v
+../riscv_wb_top.v
